@@ -20,14 +20,8 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 
 #### Comandos Básicos de Repositorio
 
-- git init                      # Inicializar repositorio
-- git status                    # Ver estado de archivos
-- git add archivo.txt           # Agregar archivo específico
-- git add .                     # Agregar todos los archivos
-- git commit -m "mensaje"       # Crear commit con mensaje
-- git log                       # Ver historial de commits
-- git log --oneline             # Ver historial resumido
-
+- git init                      # Inicializar Repsitorio
+- git status                    # Ver estado de archivos 
 ### Comandos de Repositorio Remoto
 
 git remote add origin [URL]     # Conectar con repositorio remoto
