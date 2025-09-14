@@ -10,8 +10,8 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 - GitBash
 - GitHud
 
-### Comandos Esenciales Git
-### Comandos de Configuración
+#### Comandos Esenciales Git
+##### Comandos de Configuración
 
 - git config --global user.name "Tu Nombre"
 - git config --global user.email "tu@email.com"
