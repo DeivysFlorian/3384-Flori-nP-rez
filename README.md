@@ -22,7 +22,8 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 
 - git init                      # Inicializar Repsitorio
 - git status                    # Ver estado de archivos 
-### Comandos de Repositorio Remoto
+
+#### Comandos de Repositorio Remoto
 
 - git remote add origin [URL]     # Conectar con repositorio remoto
 - git remote -v                   # Ver repositorios remotos
@@ -31,7 +32,7 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 - git pull origin main            # Descargar cambios de GitHub
 - git clone [URL]                 # Clonar repositorio existente
 
-### Comandos de Información
+#### Comandos de Información
 
 - git diff                        # Ver cambios no confirmados
 - git diff --staged               # Ver cambios en staging
@@ -40,4 +41,15 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 - git branch -r                   # Ver ramas remotas
 
 ## Estructuras de Control Básicas
+
+- Estructuras Secuenciales
+- Estructuras Condicionales Simpleas
+- Estructuras Condicionales Dobles
+- Estructuras Condicionales Multiples
+- Estructuras Condicionales Anidadas
+- Estructuras Condicionales Repetitivas (For, While, Do While)
+
 ## Arreglos
+
+- Arrays Unidimensionales (Vectores)
+- Arrays Bidimensionales (Matrices)
